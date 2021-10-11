@@ -1,2 +1,2 @@
 # Interview-Questions
-Repository to add interview questions
+Repository for adding interview questions and their solutions
